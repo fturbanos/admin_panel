@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admin_panel/static/css/main.898890d7.css",
+    "main.js": "/admin_panel/static/js/main.91c2ba41.js",
+    "static/js/787.b5629dd8.chunk.js": "/admin_panel/static/js/787.b5629dd8.chunk.js",
+    "index.html": "/admin_panel/index.html",
+    "main.898890d7.css.map": "/admin_panel/static/css/main.898890d7.css.map",
+    "main.91c2ba41.js.map": "/admin_panel/static/js/main.91c2ba41.js.map",
+    "787.b5629dd8.chunk.js.map": "/admin_panel/static/js/787.b5629dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898890d7.css",
+    "static/js/main.91c2ba41.js"
+  ]
+}
